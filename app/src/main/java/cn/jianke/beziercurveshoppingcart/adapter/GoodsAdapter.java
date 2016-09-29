@@ -83,8 +83,6 @@ public class GoodsAdapter extends BaseAdapter{
     class  ViewHolder{
         // 显示商品图片
         private ImageView mShoppingCartItemIv;
-//        // 购物操作
-//        private TextView mShoppingCartItemTv;
 
         /**
          * 构造函数
